@@ -1,0 +1,76 @@
+body{
+    font-family: Lato;
+}
+
+.navbar-brand img{
+    width: 260px;
+    position: relative;
+    top:-10px;   
+}
+.navbar-default{
+    background-color: white;
+    height: 55px;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: #555454;
+    font-weight: bold;
+}
+
+#intro{
+    margin-top:50px;
+    margin-bottom: 50px;
+    font-size: 1.2em;
+    
+/*    background-color: #ededed;*/
+}
+.btn-default{
+    margin: 10px auto;
+}
+header.carousel{
+    height: 75%;
+}
+header img{
+    position: fixed;
+}
+
+.panel-default{
+/*    border: 1px solid #03587D;*/
+    text-align: center;
+}
+
+.panel-default h3{
+    color: #03587D;
+    text-align: center;
+}
+#engageSpan{
+    color: #03587D;
+}
+#twitter{
+    font-size: 2em;
+    text-align: center;
+}
+#linkedin{
+    font-size: 2em;
+    text-align: center;
+    text-decoration: none;
+}
+.marketting{
+    background-color: #f5f5f5;
+    padding: 0px;
+    margin: 0px;
+    padding-top: 20px;
+    
+    
+   
+}
+.panel-default{
+    background-color:#f5f5f5;
+    border: 1px solid #f5f5f5;
+}
+.marketting footer{
+    background-color: white;
+}
+.social{
+    padding-top: 10px;
+}
